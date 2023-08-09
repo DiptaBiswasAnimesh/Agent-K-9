@@ -1,0 +1,13 @@
+﻿Build started 10/11/2021 2:20:34 AM.
+     1>Project "F:\Agent K-9\Agent K-9\Agent K-9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"F:\Agent K-9\Instructions" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Agent K-9.cpp"
+         Agent K-9.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Agent K-9\Debug\Agent K-9.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Agent K-9\Instructions\lib" glut32.lib GLUT32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Agent K-9\Debug\Agent K-9.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Agent K-9\Debug\Agent K-9.lib" /MACHINE:X86 "Debug\Agent K-9.obj"
+         Agent K-9.vcxproj -> F:\Agent K-9\Debug\Agent K-9.exe
+     1>Done Building Project "F:\Agent K-9\Agent K-9\Agent K-9.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
